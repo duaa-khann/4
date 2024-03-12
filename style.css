@@ -1,0 +1,62 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.header {
+    text-align: center;
+    color: palevioletred;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: italic;
+}
+
+.job-title {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.section h2 {
+    font-size: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    color: #666;
+}
+
+.section p {
+    margin-top: 10px;
+}
+
+.skills {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+    color: #666;
+}
+
+.linkedin {
+    color: #0077b5;
+}
+
+.github {
+    color: blueviolet;
+}
